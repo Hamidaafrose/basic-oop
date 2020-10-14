@@ -1,0 +1,2 @@
+Class/method/function restrict with the 'final' word
+Constructor overriding

@@ -1,0 +1,16 @@
+{
+    "name": "lenovo/9",
+    "description": "test description",
+    "authors": [
+        {
+            "name": "hamida",
+            "email": "afrosehamida@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {}
+}
